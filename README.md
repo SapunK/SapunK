@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SapunK
-- 👀 I’m mostly interested in C++ and Qt application development.
+- 👀 I’m mostly interested in C++, Qt and QML application development.
 - 🌱 I also have experience in Java and PrimeFaces.
 - 💞️ I’m looking to collaborate on anything that uses Qt or Java.
 - 📫 kostikbojan@gmail.com
